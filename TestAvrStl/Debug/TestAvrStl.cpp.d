@@ -1,0 +1,41 @@
+C:\Users\songg\AppData\Local\Temp\VMicroBuilds\TestAvrStl\uno\TestAvrStl.cpp.o: \
+ C:\Users\songg\AppData\Local\Temp\VMicroBuilds\TestAvrStl\uno\TestAvrStl.cpp \
+ C:\Users\songg\AppData\Local\arduino15\packages\arduino\hardware\avr\1.6.12\cores\arduino/arduino.h \
+ C:\Users\songg\AppData\Local\arduino15\packages\arduino\hardware\avr\1.6.12\cores\arduino/binary.h \
+ C:\Users\songg\AppData\Local\arduino15\packages\arduino\hardware\avr\1.6.12\cores\arduino/WCharacter.h \
+ C:\Users\songg\AppData\Local\arduino15\packages\arduino\hardware\avr\1.6.12\cores\arduino/WString.h \
+ C:\Users\songg\AppData\Local\arduino15\packages\arduino\hardware\avr\1.6.12\cores\arduino/HardwareSerial.h \
+ C:\Users\songg\AppData\Local\arduino15\packages\arduino\hardware\avr\1.6.12\cores\arduino/Stream.h \
+ C:\Users\songg\AppData\Local\arduino15\packages\arduino\hardware\avr\1.6.12\cores\arduino/Print.h \
+ C:\Users\songg\AppData\Local\arduino15\packages\arduino\hardware\avr\1.6.12\cores\arduino/Printable.h \
+ C:\Users\songg\AppData\Local\arduino15\packages\arduino\hardware\avr\1.6.12\cores\arduino/USBAPI.h \
+ C:\Users\songg\AppData\Local\arduino15\packages\arduino\hardware\avr\1.6.12\cores\arduino/Arduino.h \
+ C:\Users\songg\AppData\Local\arduino15\packages\arduino\hardware\avr\1.6.12\variants\standard/pins_arduino.h \
+ D:\DevEnvironment\arduino-1.6.9\libraries\StandardCplusplus/StandardCplusplus.h \
+ D:\DevEnvironment\arduino-1.6.9\libraries\StandardCplusplus/map \
+ D:\DevEnvironment\arduino-1.6.9\libraries\StandardCplusplus/memory \
+ D:\DevEnvironment\arduino-1.6.9\libraries\StandardCplusplus/new \
+ D:\DevEnvironment\arduino-1.6.9\libraries\StandardCplusplus/basic_definitions \
+ D:\DevEnvironment\arduino-1.6.9\libraries\StandardCplusplus/system_configuration.h \
+ D:\DevEnvironment\arduino-1.6.9\libraries\StandardCplusplus/exception \
+ D:\DevEnvironment\arduino-1.6.9\libraries\StandardCplusplus/cstddef \
+ D:\DevEnvironment\arduino-1.6.9\libraries\StandardCplusplus/cstdlib \
+ D:\DevEnvironment\arduino-1.6.9\libraries\StandardCplusplus/iterator_base \
+ D:\DevEnvironment\arduino-1.6.9\libraries\StandardCplusplus/utility.h \
+ D:\DevEnvironment\arduino-1.6.9\libraries\StandardCplusplus/cstdio \
+ D:\DevEnvironment\arduino-1.6.9\libraries\StandardCplusplus/iterator \
+ D:\DevEnvironment\arduino-1.6.9\libraries\StandardCplusplus/iosfwd \
+ D:\DevEnvironment\arduino-1.6.9\libraries\StandardCplusplus/char_traits \
+ D:\DevEnvironment\arduino-1.6.9\libraries\StandardCplusplus/deque \
+ D:\DevEnvironment\arduino-1.6.9\libraries\StandardCplusplus/stdexcept \
+ D:\DevEnvironment\arduino-1.6.9\libraries\StandardCplusplus/string \
+ D:\DevEnvironment\arduino-1.6.9\libraries\StandardCplusplus/func_exception \
+ D:\DevEnvironment\arduino-1.6.9\libraries\StandardCplusplus/vector \
+ D:\DevEnvironment\arduino-1.6.9\libraries\StandardCplusplus/algorithm \
+ D:\DevEnvironment\arduino-1.6.9\libraries\StandardCplusplus/functional \
+ D:\DevEnvironment\arduino-1.6.9\libraries\StandardCplusplus/type_traits \
+ D:\DevEnvironment\arduino-1.6.9\libraries\StandardCplusplus/initializer_list \
+ D:\DevEnvironment\arduino-1.6.9\libraries\StandardCplusplus/associative_base \
+ D:\DevEnvironment\arduino-1.6.9\libraries\StandardCplusplus/list \
+ H:\Softwares\Microsoft\ Visual\ Studio\ 14.0\Common7\IDE\Extensions\mrqhmhkq.kqx\Micro\ Platforms\default\debuggers/VM_DBG/VM_DBG.h \
+ C:\Users\songg\AppData\Local\arduino15\packages\arduino\hardware\avr\1.6.12\cores\arduino/Arduino.h
